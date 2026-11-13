@@ -1,8 +1,4 @@
 
-
-Uploading demo-small.mp4…
-
-
 <div align="center">
 
 # casine
@@ -17,16 +13,11 @@ Uploading demo-small.mp4…
 ![audio](https://img.shields.io/badge/powered%20by-cava-orange)
 ![platform](https://img.shields.io/badge/platform-linux-lightgrey)
 
-<!-- OPTIONAL demo (skip this whole block if you don't want it).
-     The easiest way is a VIDEO, not a GIF:
-       1. record your screen while casine plays music (any screen recorder,
-          keep it under 10 MB; terminal recorders like asciinema can't
-          capture kitty graphics)
-       2. open README.md on github.com, click the pencil icon to edit
-       3. drag the video file into the edit box - GitHub uploads it and
-          inserts the link for you; put that link where the <img> line is,
-          delete this comment, commit. -->
-<img src="docs/demo.gif" alt="casine drawing eight glowing sine waves while music plays" width="720">
+
+
+https://github.com/user-attachments/assets/abb8dfd2-2849-4d5a-a308-71f6b0cabf16
+
+
 
 <sub>8 frequency bands &nbsp;&middot;&nbsp; 60 fps &nbsp;&middot;&nbsp; one terminal</sub>
 
